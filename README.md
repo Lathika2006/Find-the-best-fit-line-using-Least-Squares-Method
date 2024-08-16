@@ -55,7 +55,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
+
 
 ![Screenshot 2024-08-16 144737](https://github.com/user-attachments/assets/f465050b-a6c8-47ba-ac6f-261b672450fa)
 
