@@ -56,10 +56,17 @@ plt.show()
 
 ## Output:
 
+## slope and y_intercept
 
-![Screenshot 2024-08-16 144737](https://github.com/user-attachments/assets/f465050b-a6c8-47ba-ac6f-261b672450fa)
+![image](https://github.com/user-attachments/assets/07045b10-8904-4ba7-8001-1205daa70384)
 
+## y_pred
 
+![image](https://github.com/user-attachments/assets/f47cfddc-6bbc-4fb4-937c-92ae26d6d183)
+
+## graph
+
+![image](https://github.com/user-attachments/assets/70924588-fc10-4cd0-9de1-f0fb232ab5a3)
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
